@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi 👋 My name is Cédric Tobie
+=============================
 
-<!--
-**HolbieWan/HolbieWan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer Student
+----------------------
 
-Here are some ideas to get you started:
+## About Me
+After spending half my life exploring various fields of work, I recently embarked on an exciting new challenge: becoming a skilled Web Developer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in France  
+* ✉️  You can reach me at [cedric.tobie@gmail.com](mailto:cedric.tobie@gmail.com)  
+* 🔭  I’m currently working on my portfolio project as I complete an intensive 9-month bootcamp at Holberton School  
+* 🧠  I’m diving deep into the Django framework  
+* 🤔  I’m actively seeking an internship in an innovative and dynamic company  
+
+---
+
+Profile created with [ProfileMe.dev](https://www.profileme.dev/)
