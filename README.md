@@ -16,3 +16,5 @@ After spending half my life exploring various fields of work, I recently embarke
 ---
 
 Profile created with [ProfileMe.dev](https://www.profileme.dev/)
+
+![HolbieWan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HolbieWan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
